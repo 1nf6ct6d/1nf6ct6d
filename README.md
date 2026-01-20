@@ -15,17 +15,17 @@
 🌍 **Location:** Russia  
 
 I work with **manual testing**, **API testing**, and **test automation in Python**.  
-I enjoy building clean, reliable tests and understanding how systems work under the hood.
+I enjoy building reliable tests and understanding how backend systems work.
 
 ---
 
 ## 🇷🇺 Обо мне
 
 Я **QA / AQA инженер**, ориентированный на качество продукта и автоматизацию тестирования.  
-Моя цель — **стажировка в QA / AQA**, где я смогу развиваться и приносить пользу команде.
+🎯 Цель — **найти стажировку в QA / AQA**.
 
-🎓 Образование: **ИТМО, факультет кибербезопасности**  
-🧠 Основной интерес: backend, API, автотесты, инфраструктура  
+🎓 **Образование:** ИТМО, факультет кибербезопасности  
+🧠 Интересы: backend, API, автотесты, инфраструктура, CI/CD  
 
 ---
 
@@ -76,9 +76,9 @@ I enjoy building clean, reliable tests and understanding how systems work under 
 
 ### 🟡 YAHOO-FINANCE-TRACKER
 📌 **Python | API | Automation**  
-🔹 Financial data tracking  
-🔹 API requests & data validation  
-🔹 Automated logic and data processing  
+🔹 Работа с финансовыми API  
+🔹 Валидация данных  
+🔹 Автоматизация логики  
 
 ➡️ https://github.com/Evgeniy/YAHOO-FINANCE-TRACKER
 
@@ -86,9 +86,9 @@ I enjoy building clean, reliable tests and understanding how systems work under 
 
 ### 🟡 TINKOFF-INTENSIVE-QA-BACKEND-EXAMS
 📌 **QA | Backend | Python**  
-🔹 Backend testing tasks  
-🔹 API & logic validation  
-🔹 Real QA exam-style problems  
+🔹 Backend-тестирование  
+🔹 API и бизнес-логика  
+🔹 Формат реальных QA-задач  
 
 ➡️ https://github.com/Evgeniy/TINKOFF-INTENSIVE-QA-BACKEND-EXAMS
 
@@ -102,4 +102,4 @@ I enjoy building clean, reliable tests and understanding how systems work under 
 
 ---
 
-⭐ *Always improving, learning, and building better tests.*
+⭐ *QA mindset. Automation focus. Continuous learning.*
