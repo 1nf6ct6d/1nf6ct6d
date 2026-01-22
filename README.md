@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Evgeniy</h1>
-<h3 align="center">QA / AQA Engineer | Internship Seeker 🧪🐍</h3>
+<h3 align="center">QA / AQA Engineer | Internship Seeker 🧪🐍 | DE Hobby </h3>
 
 ---
 
