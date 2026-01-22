@@ -61,6 +61,7 @@ Interested in backend systems, CI/CD, and test reliability.
 - Backend 
 - Проверка бизнес-логики
 - Тестирование API
+
 ➡️ https://github.com/1nf6ct6d/NEWS_WEB_PROJECT.git
 
 ---
