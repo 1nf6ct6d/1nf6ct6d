@@ -55,6 +55,15 @@ Interested in backend systems, CI/CD, and test reliability.
 
 ## 📂 Featured Projects
 
+### 🟡 NEWS_WEB_PROJECT
+**QA | Backend | Python**
+
+- Backend 
+- Проверка бизнес-логики
+- Тестирование API
+➡️ https://github.com/1nf6ct6d/NEWS_WEB_PROJECT.git
+
+---
 ### 🟡 YAHOO-FINANCE-TRACKER
 **Python | API | Automation**
 
