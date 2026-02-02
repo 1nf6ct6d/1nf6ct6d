@@ -55,12 +55,15 @@ Interested in backend systems, CI/CD, and test reliability.
 
 ## 📂 Featured Projects
 
+### 🟡 CENTRALIZED_DRIVING_SCHOOL_DATABASE
+**QA | Backend | Python | SQL | DB**
+
+➡️ https://github.com/1nf6ct6d/CENTRALIZED_DRIVING_SCHOOL_DATABASE
+
+---
+
 ### 🟡 NEWS_WEB_PROJECT
 **QA | Backend | Python**
-
-- Backend 
-- Проверка бизнес-логики
-- Тестирование API
 
 ➡️ https://github.com/1nf6ct6d/NEWS_WEB_PROJECT.git
 
@@ -68,20 +71,12 @@ Interested in backend systems, CI/CD, and test reliability.
 ### 🟡 YAHOO-FINANCE-TRACKER
 **Python | API | Automation**
 
-- Работа с внешними API
-- Валидация и обработка данных
-- Автоматизация бизнес-логики
-
 ➡️ https://github.com/Evgeniy/YAHOO-FINANCE-TRACKER
 
 ---
 
 ### 🟡 TINKOFF-INTENSIVE-QA-BACKEND-EXAMS
 **QA | Backend | Python**
-
-- Backend и API тестирование
-- Проверка бизнес-логики
-- Практика задач уровня стажировки
 
 ➡️ https://github.com/Evgeniy/TINKOFF-INTENSIVE-QA-BACKEND-EXAMS
 
