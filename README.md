@@ -71,7 +71,7 @@ Interested in backend systems, CI/CD, and test reliability.
 ### 🟡 YAHOO-FINANCE-TRACKER
 **Python | API | Automation**
 
-➡️ https://github.com/Evgeniy/YAHOO-FINANCE-TRACKER
+➡️ https://github.com/1nf6ct6d/YAHOO-FINANCE-TRACKER
 
 ---
 
