@@ -1,27 +1,21 @@
 <h1 align="center">👋 Hi, I'm Evgeniy</h1>
-<h3 align="center">QA / AQA Engineer | Internship Seeker 🧪🐍 | DE Hobby </h3>
+<h3 align="center">\Data Engineer | Internship Seeker 🧪🐍</h3>
 
 ---
 
 ## 🇬🇧 About Me
 
-🧪 **QA / AQA Engineer** focused on quality and test automation  
-🎯 **Current goal:** find a **QA / AQA internship**  
+🎯 **Current goal:** find a **DE** internship**  
 🎓 **Education:** ITMO University — Faculty of Cybersecurity  
 🌍 **Location:** Russia  
-
-I work with **manual testing**, **API testing**, and **test automation in Python**.  
-Interested in backend systems, CI/CD, and test reliability.
 
 ---
 
 ## 🇷🇺 Обо мне
 
-Я **QA / AQA инженер**, ориентированный на качество и автоматизацию тестирования.  
-Цель — **стажировка в QA / AQA**.
 
 🎓 Образование: **ИТМО, факультет кибербезопасности**  
-🧠 Интересы: backend, API, автотесты, инфраструктура, CI/CD  
+🧠 Интересы: DE, API, инфраструктура, CI/CD  
 
 ---
 
@@ -39,11 +33,6 @@ Interested in backend systems, CI/CD, and test reliability.
 - SQL
 - Bash
 
-### 🧪 Testing
-- Manual testing
-- API testing (Postman, requests)
-- Automation (pytest, Selenium)
-
 ### ⚙️ Tools & Infrastructure
 - Linux
 - Git / GitHub
@@ -56,14 +45,14 @@ Interested in backend systems, CI/CD, and test reliability.
 ## 📂 Featured Projects
 
 ### 🟡 CENTRALIZED_DRIVING_SCHOOL_DATABASE
-**QA | Backend | Python | SQL | DB**
+**Backend | Python | SQL | DB**
 
 ➡️ https://github.com/1nf6ct6d/CENTRALIZED_DRIVING_SCHOOL_DATABASE
 
 ---
 
 ### 🟡 NEWS_WEB_PROJECT
-**QA | Backend | Python**
+**Backend | Python**
 
 ➡️ https://github.com/1nf6ct6d/NEWS_WEB_PROJECT.git
 
@@ -82,7 +71,7 @@ EN: Simple data ingestion pipeline: fetches data from public API, stores raw JSO
 
 ---
 ### 🟡 YAHOO-FINANCE-TRACKER
-**Python | API | Automation**
+**Data Engineering | Python | API | Automation**
 
 ➡️ https://github.com/1nf6ct6d/YAHOO-FINANCE-TRACKER
 
