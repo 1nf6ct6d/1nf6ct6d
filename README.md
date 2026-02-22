@@ -77,6 +77,7 @@ Interested in backend systems, CI/CD, and test reliability.
 **About/О проекте:**
 
 RU: Простой пайплайн загрузки данных: получает данные из публичного API, сохраняет сырой слой в формате JSON, трансформирует и экспортирует структурированный CSV-файл.
+
 EN: Simple data ingestion pipeline: fetches data from public API, stores raw JSON layer, transforms and exports structured CSV output.
 
 ---
