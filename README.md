@@ -77,11 +77,4 @@ EN: Simple data ingestion pipeline: fetches data from public API, stores raw JSO
 
 ---
 
-### 🟡 TINKOFF-INTENSIVE-QA-BACKEND-EXAMS
-**QA | Backend | Python**
-
-➡️ https://github.com/Evgeniy/TINKOFF-INTENSIVE-QA-BACKEND-EXAMS
-
----
-
 ⭐ *Focus on quality. Automation mindset. Continuous learning.*
