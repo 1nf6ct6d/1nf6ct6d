@@ -15,7 +15,6 @@
 
 
 🎓 Образование: **ИТМО, факультет кибербезопасности**  
-🧠 Интересы: DE, API, инфраструктура, CI/CD  
 
 ---
 
@@ -43,6 +42,10 @@
 ---
 
 ## 📂 Featured Projects
+
+### 🟡 CupIT2026-Data-Engineering
+
+➡️ https://github.com/1nf6ct6d/CupIT2026-Data-Engineering-AI-Search-Analysis-for-FMCG-Brands
 
 ### 🟡 CENTRALIZED_DRIVING_SCHOOL_DATABASE
 **Backend | Python | SQL | DB**
