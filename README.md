@@ -23,21 +23,6 @@
 📧 **Email:** zma54211@gmail.com  
 🐙 **GitHub:** https://github.com/Evgeniy  
 
----
-
-## 🛠 Skills & Tools
-
-### 💻 Programming
-- Python
-- SQL
-- Bash
-
-### ⚙️ Tools & Infrastructure
-- Linux
-- Git / GitHub
-- GitHub Actions
-- Docker
-- Jira
 
 ---
 
