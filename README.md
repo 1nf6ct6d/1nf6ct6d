@@ -7,7 +7,8 @@
 
 🎯 **Current goal:** find a **DE** internship**  
 🎓 **Education:** ITMO University — Faculty of Cybersecurity  
-🌍 **Location:** Russia  
+🌍 **Location:** Russia 
+Winner and finalist of the first round of the Russian IT CUP 2026
 
 ---
 
