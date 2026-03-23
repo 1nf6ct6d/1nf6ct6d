@@ -6,7 +6,9 @@
 ## 🇬🇧 About Me
 
 🎯 **Current goal:** find a **DE** internship**  
+
 🎓 **Education:** ITMO University — Faculty of Cybersecurity  
+
 🌍 **Location:** Russia
 
 🔥 **Winner and finalist of the first round of the Russian IT CUP 2026**
@@ -17,7 +19,9 @@
 
 
 🎓 Образование: **ИТМО, факультет кибербезопасности**
+
 🌍 **Место проживания:** Россия
+
 🔥 **победитель и финалист первого тура Russian IT CUP 2026**
 
 ---
