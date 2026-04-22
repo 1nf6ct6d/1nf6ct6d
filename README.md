@@ -42,7 +42,7 @@
 
 ---
 
-🟡 F1-DATA-WAREHOUSE-ANALYTICS-SYSTEM
+🟡 **F1 DATA WAREHOUSE ANALYTICS SYSTEM**
 
 Python | Data Engineering | Oracle DWH | ClickHouse | Airflow | FastAPI | MinIO | Analytics
 
