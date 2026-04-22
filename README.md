@@ -40,6 +40,8 @@
 
 ➡️ https://github.com/1nf6ct6d/F1-Data-Warehouse-Analytics-System
 
+---
+
 🟡 F1-DATA-WAREHOUSE-ANALYTICS-SYSTEM
 
 Python | Data Engineering | Oracle DWH | ClickHouse | Airflow | FastAPI | MinIO | Analytics
