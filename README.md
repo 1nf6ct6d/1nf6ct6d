@@ -38,7 +38,19 @@
 
 ### 🟡 CupIT2026-Data-Engineering
 
-➡️ https://github.com/1nf6ct6d/CupIT2026-Data-Engineering-AI-Search-Analysis-for-FMCG-Brands
+➡️ https://github.com/1nf6ct6d/F1-Data-Warehouse-Analytics-System
+
+🟡 F1-DATA-WAREHOUSE-ANALYTICS-SYSTEM
+
+Python | Data Engineering | Oracle DWH | ClickHouse | Airflow | FastAPI | MinIO | Analytics
+
+➡️ https://github.com/1nf6ct6d/F1-Data-Warehouse-Analytics-System
+
+About/О проекте:
+
+RU: End-to-end data engineering проект по данным Формулы-1: загружает данные из публичного API, сохраняет raw/staging слои в MinIO, загружает dimensions и fact в Oracle DWH, строит analytics views, выгружает serving-таблицы в ClickHouse, оркестрирует пайплайн через Airflow и отдает аналитику через FastAPI + demo frontend.
+
+---
 
 ### 🟡 CENTRALIZED_DRIVING_SCHOOL_DATABASE
 **Backend | Python | SQL | DB**
