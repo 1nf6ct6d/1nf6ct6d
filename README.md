@@ -1,40 +1,106 @@
 <h1 align="center">👋 Hi, I'm Evgeniy</h1>
-<h3 align="center">Data Engineer | Internship Seeker 🧪🐍</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FACC15&center=true&vCenter=true&width=750&lines=Data+Engineer;Building+ETL+%26+Data+Pipelines;Python+%7C+SQL+%7C+Airflow+%7C+ClickHouse;DWH+%7C+Analytics+%7C+Automation;Looking+for+a+Data+Engineering+Internship"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:zma54211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zma54211%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/1nf6ct6d">
+    <img src="https://img.shields.io/badge/GitHub-1nf6ct6d-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🇬🇧 About Me
+## 👨‍💻 About Me / Обо мне
 
-🎯 **Current goal:** find a **Data Engineering internship**
+| 🇬🇧 English | 🇷🇺 Русский |
+|---|---|
+| 🎯 Looking for a **Data Engineering internship** | 🎯 Ищу стажировку в направлении **Data Engineering** |
+| 🎓 **ITMO University** — Faculty of Cybersecurity | 🎓 **ИТМО** — факультет кибербезопасности |
+| 🌍 Russia | 🌍 Россия |
+| 🔥 **Winner & Finalist — Russian IT CUP 2026** | 🔥 **Победитель и финалист первого тура Russian IT CUP 2026** |
 
-🎓 **Education:** ITMO University — Faculty of Cybersecurity
-
-🌍 **Location:** Russia
-
-🔥 **Winner and finalist of the first round of Russian IT CUP 2026**
-
----
-
-## 🇷🇺 Обо мне
-
-🎯 **Текущая цель:** стажировка в направлении **Data Engineering**
-
-🎓 **Образование:** ИТМО — факультет кибербезопасности
-
-🌍 **Место проживания:** Россия
-
-🔥 **Победитель и финалист первого тура Russian IT CUP 2026**
+> [!IMPORTANT]
+> 🟢 **Open to Data Engineering internship opportunities / Открыт к предложениям на стажировку Data Engineer**
 
 ---
 
-## 🔗 Contacts
+## 🛠 Tech Stack
 
-📧 **Email:** zma54211@gmail.com  
-🐙 **GitHub:** https://github.com/1nf6ct6d
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,fastapi,git,github,linux,bash&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle%20DWH-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-Data%20Engineering-FACC15?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Warehousing-DWH-FACC15?style=flat-square" />
+  <img src="https://img.shields.io/badge/API-Ingestion-FACC15?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data-Pipelines-FACC15?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytics-SQL-FACC15?style=flat-square" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## ⚙️ How I Think About Data
+
+```mermaid
+flowchart LR
+    A["🌐 APIs"] --> B["📥 Ingestion"]
+    B --> C["🪣 Raw / Staging"]
+    C --> D["⚙️ ETL / ELT"]
+    D --> E["🏛️ DWH"]
+    E --> F["⚡ ClickHouse"]
+    F --> G["📊 Analytics"]
+
+    H["🌪️ Airflow"] -. Orchestration .-> B
+    H -.-> D
+    H -.-> F
+```
+
+<p align="center">
+  <b>Ingest → Store → Transform → Model → Serve → Analyze</b>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/1nf6ct6d/F1-Data-Warehouse-Analytics-System">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=1nf6ct6d&repo=F1-Data-Warehouse-Analytics-System&theme=github_dark&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/1nf6ct6d/CupIT2026-Data-Engineering-AI-Search-Analysis-for-FMCG-Brands">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=1nf6ct6d&repo=CupIT2026-Data-Engineering-AI-Search-Analysis-for-FMCG-Brands&theme=github_dark&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/1nf6ct6d/AlphaCup2026">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=1nf6ct6d&repo=AlphaCup2026&theme=github_dark&hide_border=true&border_radius=10" />
+  </a>
+  <a href="https://github.com/1nf6ct6d/OzonTech-Robozon-sorting-system">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=1nf6ct6d&repo=OzonTech-Robozon-sorting-system&theme=github_dark&hide_border=true&border_radius=10" />
+  </a>
+</p>
+
+---
 
 ### 🟡 F1 DATA WAREHOUSE ANALYTICS SYSTEM
 
@@ -42,7 +108,7 @@
 
 ➡️ https://github.com/1nf6ct6d/F1-Data-Warehouse-Analytics-System
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: End-to-end Data Engineering проект: API ingestion → raw/staging в MinIO → dimensions и facts в Oracle DWH → analytics views → serving-слой в ClickHouse → оркестрация через Airflow → FastAPI.
 
@@ -54,7 +120,7 @@ RU: End-to-end Data Engineering проект: API ingestion → raw/staging в M
 
 ➡️ https://github.com/1nf6ct6d/CupIT2026-Data-Engineering-AI-Search-Analysis-for-FMCG-Brands
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: Data pipeline для анализа AI Search: сбор данных через API, обработка и нормализация ответов, извлечение источников и упоминаний брендов, загрузка структурированных данных в PostgreSQL и SQL-анализ.
 
@@ -66,7 +132,7 @@ RU: Data pipeline для анализа AI Search: сбор данных чер�
 
 ➡️ https://github.com/1nf6ct6d/AlphaCup2026
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: Multi-source data pipeline для сбора комментариев из YouTube, VK и Telegram: ingestion → нормализация → дедупликация → обработка текста → анализ пользовательских проблем.
 
@@ -78,11 +144,13 @@ RU: Multi-source data pipeline для сбора комментариев из Y
 
 ➡️ https://github.com/1nf6ct6d/OzonTech-Robozon-sorting-system
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: Инженерная система автоматической сортировки товаров: обработка данных и изображений, CV pipeline на YOLO, генерация synthetic datasets в Blender, FastAPI backend и симуляция сортировочной линии.
 
 ---
+
+## 📂 More Projects
 
 ### 🟡 CENTRALIZED DRIVING SCHOOL DATABASE
 
@@ -90,7 +158,7 @@ RU: Инженерная система автоматической сорти�
 
 ➡️ https://github.com/1nf6ct6d/CENTRALIZED_DRIVING_SCHOOL_DATABASE
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: Централизованная система хранения и обработки данных автошкол с использованием Python и SQL.
 
@@ -102,7 +170,7 @@ RU: Централизованная система хранения и обра
 
 ➡️ https://github.com/1nf6ct6d/API-TO-CSV-CONVERTER
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: Простой ETL pipeline: получает данные из публичного API, сохраняет raw JSON, преобразует данные и экспортирует структурированный CSV.
 
@@ -114,22 +182,65 @@ RU: Простой ETL pipeline: получает данные из публич
 
 ➡️ https://github.com/1nf6ct6d/YAHOO-FINANCE-TRACKER
 
-**About/О проекте:**
+**About / О проекте:**
 
 RU: Автоматизированный pipeline для извлечения и обработки финансовых данных из Yahoo Finance.
 
 ---
 
-### 🟡 NEWS WEB PROJECT
+## 📊 GitHub Stats
 
-**Python | Backend | Web**
-
-➡️ https://github.com/1nf6ct6d/NEWS_WEB_PROJECT
-
-**About/О проекте:**
-
-RU: Backend web-проект для работы с новостными данными на Python.
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=1nf6ct6d&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=10"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nf6ct6d&layout=compact&theme=github_dark&hide_border=true&border_radius=10"
+  />
+</p>
 
 ---
 
-⭐ *Focus on quality. Automation mindset. Continuous learning.*
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/1nf6ct6d">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=1nf6ct6d&theme=github-compact&hide_border=true&area=true"
+      width="100%"
+    />
+  </a>
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/1nf6ct6d/1nf6ct6d/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/1nf6ct6d/1nf6ct6d/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/1nf6ct6d/1nf6ct6d/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Focus on quality. Automation mindset. Continuous learning.</b>
+</p>
+
+<p align="center">
+  <code>while True: learn() → build() → improve()</code>
+</p>
