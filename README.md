@@ -1,16 +1,21 @@
 <h1 align="center">👋 Hi, I'm Evgeniy</h1>
 
 <p align="center">
-  <b>Data Engineer · ITMO University · Python / SQL / DWH</b>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FACC15&center=true&vCenter=true&width=800&lines=Data+Engineer;Building+ETL+%26+Data+Pipelines;Python+%7C+SQL+%7C+Airflow+%7C+ClickHouse;Spark+%7C+PySpark+%7C+Hadoop+%7C+Big+Data;DWH+%7C+Analytics+%7C+Automation;Looking+for+a+Data+Engineering+Internship"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <p align="center">
-  Building data pipelines, warehouses and analytics systems.
+  <b>ITMO University · Data Engineering · Big Data</b>
 </p>
 
 <p align="center">
   <a href="mailto:zma54211@gmail.com">📧 Email</a>
-  ·
+  &nbsp;•&nbsp;
   <a href="https://github.com/1nf6ct6d">🐙 GitHub</a>
 </p>
 
@@ -20,8 +25,8 @@
 evgeniy@itmo:~/data-engineering$ whoami
 
 ROLE        → Data Engineer
-FOCUS       → ETL / ELT · DWH · Data Pipelines · Analytics
-STACK       → Python · SQL · Airflow · ClickHouse · PostgreSQL
+FOCUS       → ETL / ELT · DWH · Big Data · Data Pipelines
+STACK       → Python · SQL · Airflow · ClickHouse · Spark · Hadoop
 EDUCATION   → ITMO University · Cybersecurity
 STATUS      → OPEN TO INTERNSHIP
 ```
@@ -42,20 +47,55 @@ STATUS      → OPEN TO INTERNSHIP
 
 ---
 
+## 🏆 Highlights
+
+### 🏆 Russian IT CUP 2026
+**Winner & Finalist / Победитель и финалист**
+
+### 🎓 ITMO University
+**Faculty of Cybersecurity / Факультет кибербезопасности**
+
+### ⚙️ Engineering Focus
+**Data Engineering · Big Data · DWH · ETL/ELT · Data Pipelines**
+
+---
+
 ## 🛠 Tech Stack
 
-### Data Engineering
+### 🐍 Languages & Data Processing
 
 <kbd>Python</kbd>
 <kbd>SQL</kbd>
+<kbd>Pandas</kbd>
+<kbd>JSON</kbd>
+<kbd>CSV</kbd>
+
+### ⚙️ Data Engineering
+
 <kbd>ETL / ELT</kbd>
 <kbd>Apache Airflow</kbd>
-<kbd>ClickHouse</kbd>
-<kbd>Oracle DWH</kbd>
+<kbd>Data Pipelines</kbd>
+<kbd>Data Modeling</kbd>
+<kbd>API Ingestion</kbd>
+<kbd>Data Warehousing</kbd>
+
+### ⚡ Big Data
+
+<kbd>Apache Spark</kbd>
+<kbd>PySpark</kbd>
+<kbd>Apache Hadoop</kbd>
+<kbd>HDFS</kbd>
+<kbd>Apache Kafka</kbd>
+<kbd>Big Data Processing</kbd>
+
+### 🗄 Databases & Storage
+
 <kbd>PostgreSQL</kbd>
+<kbd>Oracle DWH</kbd>
+<kbd>ClickHouse</kbd>
 <kbd>MinIO</kbd>
 
-### Backend & Infrastructure
+### 🐳 Backend & Infrastructure
 
 <kbd>FastAPI</kbd>
 <kbd>Docker</kbd>
@@ -65,35 +105,37 @@ STATUS      → OPEN TO INTERNSHIP
 <kbd>GitHub Actions</kbd>
 <kbd>REST API</kbd>
 
-### Data Processing
-
-<kbd>Pandas</kbd>
-<kbd>JSON</kbd>
-<kbd>CSV</kbd>
-<kbd>API Ingestion</kbd>
-<kbd>Data Modeling</kbd>
-<kbd>Analytics</kbd>
-
 ---
 
 ## ⚙️ Data Engineering Workflow
 
 ```mermaid
 flowchart LR
-    API["🌐 APIs"] --> ING["📥 Ingestion"]
-    ING --> RAW["🗄 Raw / Staging"]
-    RAW --> ETL["⚙️ ETL / ELT"]
-    ETL --> DWH["🏛 DWH"]
-    DWH --> SERVE["⚡ Serving Layer"]
-    SERVE --> BI["📊 Analytics"]
+    A["🌐 APIs / Sources"] --> B["📥 Ingestion"]
+    B --> C["🗄 Raw / Staging"]
 
-    AIRFLOW["🌪 Airflow"] -. orchestration .-> ING
-    AIRFLOW -. orchestration .-> ETL
-    AIRFLOW -. orchestration .-> SERVE
+    C --> D["⚙️ ETL / ELT"]
+
+    D --> E["🏛 DWH"]
+    D --> F["⚡ Big Data"]
+
+    F --> SP["🔥 Spark / PySpark"]
+    SP --> HD["🐘 Hadoop / HDFS"]
+
+    E --> CH["⚡ ClickHouse"]
+    HD --> CH
+
+    CH --> G["📊 Analytics / Serving"]
+
+    AF["🌪 Airflow"] -. orchestration .-> B
+    AF -. orchestration .-> D
+    AF -. orchestration .-> SP
+
+    KF["📨 Kafka"] -. streaming .-> B
 ```
 
 <p align="center">
-  <b>Ingest → Store → Transform → Model → Serve → Analyze</b>
+  <b>Ingest → Store → Transform → Process → Model → Serve → Analyze</b>
 </p>
 
 ---
@@ -102,7 +144,7 @@ flowchart LR
 
 ## 🟡 F1 DATA WAREHOUSE ANALYTICS SYSTEM
 
-**End-to-End Data Engineering / DWH**
+**End-to-End Data Engineering · DWH · Analytics**
 
 <kbd>Python</kbd>
 <kbd>ETL</kbd>
@@ -117,38 +159,28 @@ https://github.com/1nf6ct6d/F1-Data-Warehouse-Analytics-System
 
 **RU:** End-to-end Data Engineering проект: API ingestion → raw/staging в MinIO → dimensions и facts в Oracle DWH → analytics views → serving-слой в ClickHouse → оркестрация через Airflow → FastAPI.
 
-**Pipeline:**
-
 ```text
 Public API
-    │
-    ▼
- Raw Data
-    │
-    ▼
-   MinIO
-raw / staging
-    │
-    ▼
+    ↓
+Raw / Staging
+    ↓
+MinIO
+    ↓
 Oracle DWH
-dimensions + facts
-    │
-    ▼
+Dimensions + Facts
+    ↓
 Analytics Views
-    │
-    ▼
+    ↓
 ClickHouse
-serving layer
-    │
-    ▼
-FastAPI
+    ↓
+FastAPI / Analytics
 ```
 
 ---
 
 ## 🟡 CUPIT 2026 — AI SEARCH ANALYSIS FOR FMCG BRANDS
 
-**Data Engineering / API Ingestion / Analytics**
+**Data Engineering · API Ingestion · Analytics**
 
 <kbd>Python</kbd>
 <kbd>ETL</kbd>
@@ -180,7 +212,7 @@ SQL Analytics
 
 ## 🟡 ALPHACUP 2026
 
-**Multi-Source Data Pipeline / NLP**
+**Multi-Source Data Pipeline · NLP**
 
 <kbd>Python</kbd>
 <kbd>ETL</kbd>
@@ -192,7 +224,7 @@ SQL Analytics
 🔗 **Repository:**  
 https://github.com/1nf6ct6d/AlphaCup2026
 
-**RU:** Multi-source data pipeline для сбора пользовательских комментариев из YouTube, VK и Telegram: ingestion → унификация данных → дедупликация → обработка текста → анализ пользовательских проблем.
+**RU:** Multi-source data pipeline для сбора пользовательских комментариев из YouTube, VK и Telegram: ingestion → унификация → дедупликация → обработка текста → анализ пользовательских проблем.
 
 ```text
 YouTube ─┐
@@ -204,7 +236,7 @@ Telegram ─┘
 
 ## 🟡 OZONTECH ROBOZON SORTING SYSTEM
 
-**Engineering / Computer Vision / Data Pipeline**
+**Engineering · Computer Vision · Data Pipeline**
 
 <kbd>Python</kbd>
 <kbd>FastAPI</kbd>
@@ -220,18 +252,18 @@ https://github.com/1nf6ct6d/OzonTech-Robozon-sorting-system
 
 ```text
 Product Data
-     ↓
+    ↓
 Synthetic Dataset
-   (Blender)
-     ↓
-    YOLO
-     ↓
+    ↓
+Blender
+    ↓
+YOLO
+    ↓
 Classification
-     ↓
-   FastAPI
-     ↓
+    ↓
+FastAPI
+    ↓
 Sorting Simulation
-   (PyBullet)
 ```
 
 ---
@@ -254,7 +286,7 @@ Sorting Simulation
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>🟡 API-TO-CSV-CONVERTER</b></summary>
@@ -269,11 +301,11 @@ Sorting Simulation
 
 🔗 https://github.com/1nf6ct6d/API-TO-CSV-CONVERTER
 
-**RU:** Простой ETL pipeline: получает данные из публичного API → сохраняет raw JSON → преобразует данные → экспортирует структурированный CSV.
+**RU:** Простой ETL pipeline: публичный API → raw JSON → transformation → структурированный CSV.
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>🟡 YAHOO FINANCE EXTRACTOR</b></summary>
@@ -293,40 +325,31 @@ Sorting Simulation
 
 ---
 
-## 🏆 Highlights
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Russian IT CUP 2026                                        │
-│                                                              │
-│  🏆 Winner                                                   │
-│  🔥 Finalist                                                 │
-│  🎓 ITMO University                                         │
-│  ⚙️ Data Engineering                                        │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
-learning:
-  - Advanced SQL
+data_engineering:
+  - ETL / ELT
   - Data Warehousing
-  - ETL / ELT Architecture
+  - Data Modeling
   - Apache Airflow
   - ClickHouse
-  - Data Modeling
+
+big_data:
+  - Apache Spark
+  - PySpark
+  - Hadoop
+  - HDFS
+  - Kafka
 
 building:
-  - Data Pipelines
-  - DWH Systems
+  - Batch Data Pipelines
   - API Ingestion
+  - DWH Systems
   - Analytics Platforms
 
-target:
-  role: Data Engineer Intern
+career:
+  target: Data Engineer Intern
   status: open_to_opportunities
 ```
 
@@ -334,8 +357,8 @@ target:
 
 ## 📫 Contacts
 
-**Email:** [zma54211@gmail.com](mailto:zma54211@gmail.com)  
-**GitHub:** [github.com/1nf6ct6d](https://github.com/1nf6ct6d)
+📧 **Email:** [zma54211@gmail.com](mailto:zma54211@gmail.com)  
+🐙 **GitHub:** [github.com/1nf6ct6d](https://github.com/1nf6ct6d)
 
 ---
 
@@ -344,5 +367,5 @@ target:
 </p>
 
 <p align="center">
-  <code>ingest() → transform() → model() → serve()</code>
+  <code>ingest() → transform() → process() → model() → serve()</code>
 </p>
